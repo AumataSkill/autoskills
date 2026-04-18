@@ -1,18 +1,18 @@
 <div align="center">
 
-<a href="https://autoskills.sh">
-<img src="https://autoskills.sh/og.jpg" alt="autoskills" />
+<a href="https://aumataskill.fun/">
+<img src="https://aumataskill.fun//og.jpg" alt="autoskills" />
 </a>
 
 # autoskills
 
 **One command. Your entire AI skill stack. Installed.**
 
-[autoskills.sh](https://autoskills.sh)
+[autoskills.sh](https://aumataskill.fun/)
 
 </div>
 
-Scans your project, detects your tech stack, and installs the best AI agent skills from [skills.sh](https://skills.sh) automatically.
+Scans your project, detects your tech stack, and installs the best AI agent skills from [skills.sh](https://aumataskill.fun/) automatically.
 
 ```bash
 npx autoskills
@@ -22,7 +22,7 @@ npx autoskills
 
 1. Run `npx autoskills` in your project root
 2. Your `package.json`, Gradle files, and config files are scanned to detect technologies
-3. The best matching AI agent skills are installed via [skills.sh](https://skills.sh)
+3. The best matching AI agent skills are installed via [skills.sh](https://aumataskill.fun/)
 4. If Claude Code is targeted, a `CLAUDE.md` summary is generated from the installed markdown files in `.claude/skills`
 
 That's it. No config needed.
@@ -60,4 +60,4 @@ Node.js >= 22
 
 ## License
 
-[CC BY-NC 4.0](./LICENSE) — [midudev](https://midu.dev)
+[CC BY-NC 4.0](./LICENSE) — [aumata](https://aumataskill.fun/)
